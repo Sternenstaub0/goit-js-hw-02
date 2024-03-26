@@ -5,4 +5,3 @@ function checkForSpam(message) {
     return false;
   }
 }
-console.log(checkForSpam('Get rid of sPaM emails. Our book in on sale!'));
